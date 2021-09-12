@@ -1,19 +1,30 @@
-# VBA of Wall Street
+# `Stock Market Analysis`
 
-### Stock market analyst
+## Project Description
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+-  The dataset, located in the Resources folder, contains stock information from the years 2014 through 2016.
+- Using Visual Basic as well as Excel, the goal of the project is to write code that takes the given dataset and analyzes each Stock Ticker for the given year.
+- Given the large amount of information, a loop will be used to consolidate and analyze the data so that a much more usable spreadsheet can be developed.
+- The acquired summarization will include, of course, the Ticker, as well as the Stock Volume, the Opening and Closing Prices, and the change in both dollar amount and percentage.
+- Finally, the code will give the user the company that has the greatest increase in percentage, decrease in percentage, and the company with the
+greatest stock volume over the course of each year.
 
-  * The ticker symbol.
+## Languages & Technology Used
 
-  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+- Visual Basic
+- Microsoft Excel
 
-  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+## Personal Website
 
-  * The total stock volume of the stock.
+- [JWhiteAnalytics.com](https://jwhiteanalytics.com)
 
-* It should also have conditional formatting that will highlight positive change in green and negative change in red.
+## Screenshots
+![image](/Images/2014.png)
 
-* The solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
+![image](/Images/2015.png)
 
-* Make the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+![image](/Images/2016.png)
+
+## Links
+- [JWhiteAnalytics.com](https://jwhiteanalytics.com)
+- [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
