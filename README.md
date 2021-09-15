@@ -28,3 +28,5 @@ greatest stock volume over the course of each year.
 ## Links
 - [JWhiteAnalytics.com](https://jwhiteanalytics.com)
 - [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
+- [Full Resume](https://jwhiteanalytics.com/JWhite%20Resume.pdf)
+- [GitLab](https://gitlab.com/jimmywhite1987)
